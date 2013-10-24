@@ -6,6 +6,8 @@
 
 - Título: Aprendizaje automático con `scikit-learn`
 
+- Todo el material de la charla esta en github: `https://github.com/rafacarrascosa/scikit-learn-pycon-ar-2013`
+
 - Quien soy?
     - Rafael Carrascosa.
     - Soy programador.
