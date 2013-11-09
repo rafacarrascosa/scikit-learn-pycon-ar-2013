@@ -126,7 +126,7 @@ $$
 Donde los datos que terminan agrupados juntos son mapeados por $f$ al mismo
 número.
 
-Notar que el dataset no nececita tener una atributo *target*.
+Notar que el dataset no necesita tener una atributo *target*.
 
 # Aplicaciones:
 
@@ -170,7 +170,7 @@ $$
 
 ---
 
-# Problema del peaje de avellaneda
+# Problema del peaje de Avellaneda
 
 Determinar la cantidad de autos que van a pasar por un peaje a lo largo del día
 en base a los autos que pasaron a las 3am.
